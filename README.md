@@ -1,4 +1,5 @@
 # Find-Numbers-with-Even-Number-of-Digits
+1295 --easy
 Given an array nums of integers, return how many of them contain an even number of digits.
 ```
 Input: nums = [12,345,2,6,7896]
